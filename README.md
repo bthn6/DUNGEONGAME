@@ -24,5 +24,5 @@ Dungeon Adventure is a command-line-based adventure game developed using the C p
    Clone the project repository from GitHub:
 
    ```bash
-   git clone https://github.com/username/dungeon-adventure.git
-   cd dungeon-adventure
+   git clone [https://github.com/username/dungeon-adventure.git](https://github.com/bthn6/DUNGEONGAME)
+   cd dungeon-game
